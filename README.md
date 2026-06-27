@@ -40,7 +40,7 @@ GhostClusters-Datasets/
 | Description | 9,149 annotated social media ADR expressions, each linked to a MedDRA Preferred Term code |
 | Role in Paper | Primary corpus — Ghost detection AUC/F1 and mapping difficulty analysis |
 | Original Source (citation) | Sarker et al. (2018), Journal of the American Medical Informatics Association (JAMIA) |
-| DOI | https://doi.org/10.1093/jamia/ocy071 |
+| DOI | https://doi.org/10.1093/jamia/ocy114 |
 | License | Research use only, per original dataset terms. See original source for full details. |
 | Access | Available from the corresponding author on reasonable request. |
 
