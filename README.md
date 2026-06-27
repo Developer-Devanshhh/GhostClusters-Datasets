@@ -40,7 +40,7 @@ GhostClusters-Datasets/
 | Description | 9,149 annotated social media ADR expressions, each linked to a MedDRA Preferred Term code |
 | Role in Paper | Primary corpus — Ghost detection AUC/F1 and mapping difficulty analysis |
 | Original Source (citation) | Sarker et al. (2018), Journal of the American Medical Informatics Association (JAMIA) |
-| DOI | https://doi.org/10.1093/jamia/ocy114 |
+| DOI | https://doi.org/10.17632/rxwfb3tysd.2 |
 | License | Research use only, per original dataset terms. See original source for full details. |
 | Access | Available from the corresponding author on reasonable request. |
 
@@ -53,7 +53,7 @@ GhostClusters-Datasets/
 | Description | 1,250 patient forum posts (Lipitor and Diclofenac) yielding 6,318 ADE mention spans with MedDRA mapping files |
 | Role in Paper | Secondary corpus — cross-corpus validation |
 | Original Source (citation) | Karimi et al. (2015), Journal of Biomedical Informatics |
-| DOI | https://doi.org/10.1016/j.jbi.2015.03.010 |
+| DOI | https://doi.org/10.4225/08/570FB102BDAD2 |
 | License | CSIRO Data Licence (research purposes). See original source for full details. |
 | Access | Available from the corresponding author on reasonable request. |
 
