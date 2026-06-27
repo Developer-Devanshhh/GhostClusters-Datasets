@@ -96,20 +96,6 @@ Users are responsible for complying with the original license terms of each data
 
 ---
 
-## Citation
-
-If you use these datasets in your work, please cite both this paper and the original dataset papers listed above.
-
-```bibtex
-@article{verma2025ghostcluster,
-  title     = {Ghost Clusters: Unsupervised Discovery of Unnamed Adverse Drug Events from Patient-Generated Slang},
-  author    = {Verma, Devansh and Dhoot, Bhavya and Pattabiraman, Kalyanaraman},
-  journal   = {Scientific Reports},
-  year      = {2025}
-}
-```
-
----
 
 ## Contact
 
